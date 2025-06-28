@@ -1,0 +1,20 @@
+title: Lovolts
+description: >-
+  Low voltage structured cabling, IT infrastructure, and minstaller trade gear guides.
+baseurl: "" # Leave empty if using root domain
+url: "https://lovolts.com" 
+
+# Remote theme line
+remote_theme: daviddarnes/alembic@main
+
+# Plugins (needed for remote themes)
+plugins:
+  - jekyll-remote-theme
+
+# Optional: social, author, etc.
+author:
+  name: 
+  email: 
+
+# Build settings
+markdown: kramdown
